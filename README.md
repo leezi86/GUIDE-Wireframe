@@ -29,7 +29,7 @@ GUIDE-Wireframe
 
 #### UI 스타일 가이드
 <p><a href="/medialoot-ui-style-guide-template.zip?raw=true" target="_blank">Medialoot UI Style Guide Template 다운로드</a></p>
-![UI 스타일 가이드](/images/styleGuide.png "UI 스타일 가이드")
+![UI 스타일 가이드](/styleGuide.png "UI 스타일 가이드")
 
 =
 
